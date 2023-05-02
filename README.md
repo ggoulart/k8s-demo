@@ -1,4 +1,5 @@
-Cloned FROM: https://gitlab.com/nanuchi/k8s-in-1-hour/-/tree/master
+Cloned from: https://gitlab.com/nanuchi/k8s-in-1-hour/-/tree/master
+
 youtube: https://www.youtube.com/watch?v=s_o8dwzRlu4
 
 ### Repository for the K8s in 1 hour video
